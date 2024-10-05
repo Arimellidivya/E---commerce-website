@@ -52,6 +52,6 @@ You can open the index.html file in your preferred browser to view the website. 
 5. Submit a pull request.
 
  
- ## Output
+ ## Output file
  
 ![output (1)](https://github.com/user-attachments/assets/36268ee1-ed85-4bf8-8c29-a0a317f7bc09)
